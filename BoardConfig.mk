@@ -111,3 +111,5 @@ TW_SCREEN_BLANK_ON_BOOT := true
 TW_INPUT_BLACKLIST := "hbtp_vm"
 TW_USE_TOOLBOX := true
 TW_INCLUDE_REPACKTOOLS := true
+TW_MTP_DEVICE := /dev/mtp_usb
+TW_MTP_DEVICE := /dev/usb_mtp_gadget
